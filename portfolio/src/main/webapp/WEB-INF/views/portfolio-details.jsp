@@ -184,10 +184,10 @@
 						<div class="portfolio-info">
 							<h3>Project information</h3>
 							<ul>
-								<li><strong>Category</strong>: Web design</li>
-								<li><strong>Client</strong>: ASU Company</li>
-								<li><strong>Project date</strong>: 01 March, 2020</li>
-								<li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+								<li><strong>Category</strong>: Web develop</li>
+								<li><strong>Client</strong>: ITWILLBS</li>
+								<li><strong>Project date</strong>: 2023. </li>
+								<li><strong>Project URL</strong>: <a href="#">http://c6d2305t1.itwillbs.com/user/userLogin</a></li>
 							</ul>
 						</div>
 						<div class="portfolio-description">
