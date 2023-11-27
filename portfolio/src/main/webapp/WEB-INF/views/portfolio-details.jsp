@@ -12,8 +12,8 @@
 <meta content="" name="keywords">
 
 <!-- Favicons -->
-<link href="resources/img/favicon.png" rel="icon">
-<link href="resources/img/apple-touch-icon.png" rel="apple-touch-icon">
+<link href="resources/img/DAPAO/favicon.png" rel="icon">
+<link href="resources/img/DAPAO/apple-touch-icon.png" rel="apple-touch-icon">
 
 <!-- Vendor CSS Files -->
 <link href="resources/vendor/bootstrap/css/bootstrap.min.css"
@@ -48,7 +48,7 @@
 				<a href="index.html">DevFolio</a>
 			</h1>
 			<!-- Uncomment below if you prefer to use an image logo -->
-			<!-- <a href="index.html" class="logo"><img src="resources/img/logo.png" alt="" class="img-fluid"></a>-->
+			<!-- <a href="index.html" class="logo"><img src="resources/img/DAPAO/logo.png" alt="" class="img-fluid"></a>-->
 
 			<nav id="navbar" class="navbar">
 				<ul>
@@ -85,7 +85,7 @@
 	<!-- End Header -->
 
 	<div class="hero hero-single route bg-image"
-		style="background-image: url(resources/img/overlay-bg.jpg)">
+		style="background-image: url(resources/img/DAPAO/overlay-bg.jpg)">
 		<div class="overlay-mf"></div>
 		<div class="hero-content display-table">
 			<div class="table-cell">
@@ -113,67 +113,79 @@
 							<div class="swiper-wrapper align-items-center">
 
 								<div class="swiper-slide">
-									<img src="resources/img/DAPAO.png" alt="">
+									<img src="resources/img/DAPAO/DAPAO.png" alt="">
 								</div>
 
 								<div class="swiper-slide">
-									<img src="resources/img/content.png" alt="">
+									<img src="resources/img/DAPAO/content.png" alt="">
 								</div>
 
 								<div class="swiper-slide">
-									<img src="resources/img/Part1.png" alt="">
+									<img src="resources/img/DAPAO/Part1.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/DAPAO_intro.png" alt="">
+									<img src="resources/img/DAPAO/DAPAO_intro.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/역활분담.png" alt="">
+									<img src="resources/img/DAPAO/역활분담.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/intro_스케줄.png" alt="">
+									<img src="resources/img/DAPAO/intro_스케줄.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/개발환경.png" alt="">
+									<img src="resources/img/DAPAO/개발환경.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/Part2.png" alt="">
+									<img src="resources/img/DAPAO/Part2.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/배경.png" alt="">
+									<img src="resources/img/DAPAO/배경.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/ERD.png" alt="">
+									<img src="resources/img/DAPAO/ERD.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/Part3.png" alt="">
+									<img src="resources/img/DAPAO/Part3.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/사업자_상점메인페이지.png" alt="">
+									<img src="resources/img/DAPAO/사업자_상점메인페이지.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/사업자_상점메인페이지2.png" alt="">
+									<img src="resources/img/DAPAO/사업자_상점메인페이지2.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/사업자_상품 조회수정등록.png" alt="">
+									<img src="resources/img/DAPAO/사업자_상품 조회수정등록.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/사업자_상품등록.png" alt="">
+									<img src="resources/img/DAPAO/사업자_상품등록.png" alt="">
 								</div>
 								<div class="swiper-slide">
-									<img src="resources/img/사업자_상품수정.png" alt="">
+									<img src="resources/img/DAPAO/사업자_상품수정.png" alt="">
 								</div>
-<!-- 								<div class="swiper-slide"> -->
-<!-- 									<img src="resources/img/Part1.png" alt=""> -->
-<!-- 								</div> -->
-<!-- 								<div class="swiper-slide"> -->
-<!-- 									<img src="resources/img/Part1.png" alt=""> -->
-<!-- 								</div> -->
-<!-- 								<div class="swiper-slide"> -->
-<!-- 									<img src="resources/img/Part1.png" alt=""> -->
-<!-- 								</div> -->
-<!-- 								<div class="swiper-slide"> -->
-<!-- 									<img src="resources/img/Part1.png" alt=""> -->
-<!-- 								</div> -->
+								<div class="swiper-slide">
+									<img src="resources/img/DAPAO/광고문의.png" alt="">
+								</div>
+								<div class="swiper-slide">
+									<img src="resources/img/DAPAO/광고문의_홈페이지.png" alt="">
+								</div>
+								<div class="swiper-slide">
+									<img src="resources/img/DAPAO/광고문의-체험단.png" alt="">
+								</div>
+								<div class="swiper-slide">
+									<img src="resources/img/DAPAO/광고문의-체험단_결제.png" alt="">
+								</div>
+								<div class="swiper-slide">
+									<img src="resources/img/DAPAO/대나무페이충전.png" alt="">
+								</div>
+								<div class="swiper-slide">
+									<img src="resources/img/DAPAO/채팅.png" alt="">
+								</div>
+								<div class="swiper-slide">
+									<img src="resources/img/DAPAO/공지사항.png" alt="">
+								</div>
+								<div class="swiper-slide">
+									<img src="resources/img/DAPAO/FAQ.png" alt="">
+								</div>
 
 							</div>
 							<div class="swiper-pagination"></div>
@@ -186,12 +198,12 @@
 							<ul>
 								<li><strong>Category</strong>: Web develop</li>
 								<li><strong>Client</strong>: ITWILLBS</li>
-								<li><strong>Project date</strong>: 2023. </li>
+								<li><strong>Project date</strong>: 2023.</li>
 								<li><strong>Project URL</strong>: <a href="#">http://c6d2305t1.itwillbs.com/user/userLogin</a></li>
 							</ul>
 						</div>
 						<div class="portfolio-description">
-							<h2>This is an example of portfolio detail</h2>
+							<h2>DAPAO detail</h2>
 							<p>Autem ipsum nam porro corporis rerum. Quis eos dolorem eos
 								itaque inventore commodi labore quia quia. Exercitationem
 								repudiandae officiis neque suscipit non officia eaque itaque
